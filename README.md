@@ -35,7 +35,7 @@ I'm a bioinformatician and data scientist with a background in bioengineering an
 - 💼 Open to roles in computational biology, genomics, and bioinformatics R&D
 - 🔍 Exploring AI/ML applications in biological data interpretation
 
-📫 **Contact me**: [oajetunmobi@gmail.com](mailto:oajetunmobi@gmail.com)  
+📫 **Contact me**: [oajetunmobi1@gmail.com](mailto:oajetunmobi1@gmail.com)  
 🌍 **Portfolio**: Coming soon!
 
 ---
